@@ -1,0 +1,8 @@
+welcome:
+    - address: "/"
+      type: "return-page"
+      result: "http/index.html"
+default_api:
+    - address: "/test"
+      type: "return"
+      result: "Health-status: ok"
