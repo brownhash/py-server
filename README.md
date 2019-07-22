@@ -11,5 +11,5 @@ Leave the rest to it.
 ```
 # How ?
 `redirect a reverse proxy to 127.0.0.1:5000`<br>
-`edit the config.yaml file to add multiple pages/actions`
+`edit the config.yaml file to add multiple pages/actions`<br>
 `run: python3 py_server.py`
